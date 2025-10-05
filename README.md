@@ -80,6 +80,6 @@ As a result, marketing funds were being allocated inefficiently, reducing overal
 ##  **Author**
 **Shreya Mishra**  
 *Business Intelligence & Data Analyst*  
-📍 Richmond, VA  
+ Richmond, VA  
  MBA (Business Analytics) | Tableau | Power BI | SQL | Excel  
 
